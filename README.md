@@ -80,8 +80,8 @@ After completing the tutorial, remember to delete the table to avoid incurring c
 3. Click **Delete**.
 4. Confirm the deletion.
 
-**Screenshot 4**: Deleting the Table  
-![Deleting the Table](./images/dynamodb-delete-table.png)
+ Deleting the Table  
+![delete-music-table](https://github.com/user-attachments/assets/ea831063-e9fd-4a0c-b06b-3df268a1d2a0)
 
 ## Conclusion
 
@@ -91,4 +91,4 @@ For more information, you can refer to the [official tutorial](https://aws.amazo
 
 ---
 
-You can replace the image links with your actual screenshot files. Let me know if you'd like any further adjustments!
+You can replace the image links with your actual screenshot files. 
